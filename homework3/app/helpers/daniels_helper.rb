@@ -1,0 +1,2 @@
+module DanielsHelper
+end
